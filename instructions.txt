@@ -1,0 +1,6 @@
+# instructions
+1.Go through libraries mentioned
+2.Create a CSV file first
+    # df = pd.DataFrame(columns = ["Headline", "Date", "Info"])
+    # df.to_csv("news_every_hour.csv")
+  by uncommenting these 2 lines
